@@ -102,7 +102,7 @@ The `processKeyInput()` function handles keypad input and automatically evaluate
 
 ### 🔒 Door Locked
 
-![Door Locked](Images/locked.png)
+![Door Locked](Images/Locked.png)
 
 ---
 
